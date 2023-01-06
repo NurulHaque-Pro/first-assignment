@@ -21,7 +21,9 @@ section{
 p{
     color: #444343
 }
-
+a{
+    text-decoration: none;
+}
 .btn-primary{
     padding: 15px 25px;
     border-radius: 5px;
@@ -195,6 +197,10 @@ p{
 .footer-contact-info{
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.top-footer-col a{
+    margin-right: 15px;
 }
 
 .subscribe-title{
