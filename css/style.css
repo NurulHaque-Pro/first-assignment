@@ -10,7 +10,9 @@ section{
 .section-title{
     font-size: 40px;
     font-weight: 700;
-    color: #151414;
+    color: #151414; 
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 p{
@@ -40,5 +42,62 @@ p{
 /* ===== My Failure Section styles ========= */
 
 .my-failure-content{
-    display: flex;
+    display: flex;  
+    align-items: center;
 }
+
+.failure-col {
+    padding: 20px 20px 20px 45px;
+}
+
+.failure-col img{
+    width: 450px;
+    
+}
+
+.my-failure-list{
+    list-style: none;
+    padding: 10px 0;
+}
+
+
+.check-icon{
+    width: 15px !important;
+    padding-right: 10px;
+}
+
+
+/* ============   My Plans section styles =======*/
+
+
+
+.my-plans h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.my-plans-content{
+    display: flex;
+    /* gap: 100px; */
+    justify-content: space-between;
+    text-align: center;
+}
+
+.plan-title{
+    color: #151414;
+    font-size: 26px;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.plan-sub-title{
+    font-size: 20px;
+    font-weight: 500;
+    color: #737272;
+}
+
+
+
+
+
