@@ -134,7 +134,8 @@ a{
 }
 
 .plan-items:hover{
-    box-shadow: 0px 5px 5px #f15d2215;
+    box-shadow: 0px 5px 5px #0000000a;
+    ;
 }
 .plan-title{
     color: #151414;
