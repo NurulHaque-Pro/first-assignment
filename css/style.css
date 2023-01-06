@@ -143,9 +143,10 @@ a{
 /* ======= Call to action section style ======== */
 
 .call-now-box{
-    background-image: url('../img/gradient2.png'), url('../img/watch.png');
+    background-image: linear-gradient(to right, #F05B21, #00000000), url('../img/watch.png');
     background-repeat: no-repeat;
     padding: 60px;
+    background-size: cover;
     border-radius: 10px;
 }
 
@@ -161,6 +162,7 @@ a{
 .call-btn:hover{
     color: white;
     border: 1px solid #ffffff;
+    background-color: #f05c2100;
 
 }
 
