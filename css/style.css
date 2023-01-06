@@ -1,4 +1,44 @@
-*{
+* {
     margin: 0;
     font-family: 'Work Sans', sans-serif;
+}
+
+section{
+    padding: 70px 200px;
+}
+
+.section-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+}
+
+p{
+    color: #444343
+}
+/* ======== Header banner section styles =======*/
+
+
+.banner-container {
+    background: url('../img/banner/banner2.png');
+    background-size: cover;
+    padding: 200px 150px 160px 150px;
+}
+
+.banner-content {
+    text-align: end;
+    
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+}
+
+
+/* ===== My Failure Section styles ========= */
+
+.my-failure-content{
+    display: flex;
 }
