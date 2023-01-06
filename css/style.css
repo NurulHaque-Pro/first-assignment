@@ -140,3 +140,55 @@ p{
     font-weight: 700;
 }
 
+
+/* ======= Footer sections style ========== */
+
+.top-footer{
+    background: #151414;
+    display: flex;
+}
+
+.top-footer-col{
+    width: 50%;
+}
+
+.footer-col-1{
+    padding-right: 50px;
+}
+
+.footer-col-2{
+    padding-left: 50px;
+}
+
+.top-footer-col h3{
+    color: white;
+}
+
+.footer-description{
+    color: white;
+    line-height: 25px;
+    font-weight: lighter;
+}
+
+.footer-contact-info{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.subscribe-title{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+/* == Footer bottom style === */
+
+.footer-bottom{
+    background-color: black;
+    padding: 10px 200px ;
+    text-align: center;
+}
+.copyright-text{
+    color: white;
+}
