@@ -168,6 +168,7 @@ a{
     transition: .3s;
     overflow: hidden;
     cursor: pointer;
+    padding-bottom: 10px;
 }
 
 .single-blog:hover{
