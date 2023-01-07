@@ -105,13 +105,13 @@ a{
 
 
 .check-icon{
-    width: 15px !important;
+    /* width: 15px !important; */
     padding-right: 10px;
+    color: #16D887;
 }
 
 
 /* ============   My Plans section styles =======*/
-
 
 
 .my-plans h3{
